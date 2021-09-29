@@ -1,0 +1,18 @@
+{
+  "name": "aliyun-log-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioslh/aliyun-log-test
+.git"
+  },
+  "author": "ioslh",
+  "license": "ISC",
+  "homepage": "https://github.com/ioslh/aliyun-log-test#readme"
+}
