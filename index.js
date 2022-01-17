@@ -18,3 +18,5 @@ console.log('auto group content')
 console.groupEnd('autogroup')
 console.log('--- done ---')
 
+console.log('\u001b[1;31mFail to execute the task atom: Can not found task(git):拉取代码（GIT）| null\u001b[m')
+
