@@ -20,4 +20,5 @@ console.log('--- done ---')
 
 console.log('\033[33mtest\033[39m')
 
+console.log('<a href="https://google.com">test link</a>')
 
